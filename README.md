@@ -3,7 +3,7 @@
 - 🔭 Designer em transição de carreira para a área Dev💻! 
 - 📋 Formação em FrontEnd, Javascript, CSS, HTML, Java, MySQL e Metodologias Ágeis - Curso: Desenvovimento Web Full Stack - Senai.
 - 🥰 Estou procurando dicas sobre JS, React, Typescript, Angular, AWS.
-- 💬 Gosto de coisas geek/nerd, colecionador de quadrinhos e BG e gosto muito de conversar sobre
+- 💬 Gosto de coisas geek/nerd, colecionador de quadrinhos e BG e gosto muito de conversar sobre📚.
 - 📫 Contato: vitor.nardi20@gmail.com
 
 <div align="center">
