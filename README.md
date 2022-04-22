@@ -6,10 +6,10 @@
 - 💬 Gosto de coisas geek/nerd, colecionador de quadrinhos e BG e gosto muito de conversar sobre📚.
 - 📫 Contato: vitor.nardi20@gmail.com
 
-<div align="center">
+<div>
   <a href="https://github.com/vitornardi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitornardi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornardi&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitornardi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornardi&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
