@@ -1,13 +1,16 @@
-## Olá! Eu sou o Vitor Nardi 
+### Olá, eu sou a Vitor Nardi ! 👋
 
-- 👀 Designer em transição de carreira para a área Dev
-- 🌱 Estudando Front-end e Back-end para aplicações Web
-- 😃 Pronouns: ele/dele
+- 🔭 Atualmente trabalho em uma cafetería chamada -☕"KOF - King of the Fork"☕!
+- 📋 Formação em FrontEnd, Javascript, CSS, HTML, Java, MySQL e Metodologias Ágeis - Curso: Desenvovimento Web Full Stack - Senai.
+- 🔭 Designer em transição de carreira para a área Dev💻!
+- 🥰 Estou procurando dicas sobre JS, React, Typescript, Angular, AWS.
+- 💬 Gosto de coisas geek/nerd, colecionador de quadrinhos e BG e gosto muito de conversar sobre
+- 📫 Contato: vitor.nardi20@gmail.com
 
 <div align="center">
   <a href="https://github.com/vitornardi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitornardi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornardi&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitornardi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornardi&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -27,5 +30,3 @@
       <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/vitor-nardi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-  
-  ![Snake animation](https://github.com/vitornardi/vitornardi/blob/output/github-contribution-grid-snake.svg)
