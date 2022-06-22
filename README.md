@@ -1,4 +1,4 @@
-### Olá, eu sou a Vitor Nardi ! 👋
+### Olá, eu sou o Vitor Nardi ! 👋
 
 - 🔭 Designer em transição de carreira para a área Dev💻! 
 - 📋 Formação em FrontEnd, Javascript, CSS, HTML, Java, MySQL e Metodologias Ágeis - Curso: Desenvovimento Web Full Stack - Senai.
